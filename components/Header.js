@@ -1,4 +1,3 @@
-import React from 'react'
 import {HomeIcon,SearchIcon,PlusIcon,StarIcon} from "@heroicons/react/solid";
 import Image from "next/image";
 
