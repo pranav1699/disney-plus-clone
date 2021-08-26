@@ -9,7 +9,7 @@ import ReactPlayer from "react-player/lazy";
 function Show({ result }) {
     const BASE_URL = "https://image.tmdb.org/t/p/original/";
     const router = useRouter();
-    const [showPlayer, setShowPlayer] = useState(false);
+    const [showPlayer, setShowPlayer] = useState();
 
 
 
